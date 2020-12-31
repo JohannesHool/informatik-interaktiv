@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/informatik-interaktiv/static/css/main.37ab0a25.chunk.css",
-    "main.js": "/informatik-interaktiv/static/js/main.ddf38f2a.chunk.js",
-    "main.js.map": "/informatik-interaktiv/static/js/main.ddf38f2a.chunk.js.map",
+    "main.js": "/informatik-interaktiv/static/js/main.38e16af6.chunk.js",
+    "main.js.map": "/informatik-interaktiv/static/js/main.38e16af6.chunk.js.map",
     "runtime-main.js": "/informatik-interaktiv/static/js/runtime-main.34aabf7d.js",
     "runtime-main.js.map": "/informatik-interaktiv/static/js/runtime-main.34aabf7d.js.map",
     "static/css/2.1a02f21c.chunk.css": "/informatik-interaktiv/static/css/2.1a02f21c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.f63bf124.chunk.js",
     "static/css/main.37ab0a25.chunk.css",
-    "static/js/main.ddf38f2a.chunk.js"
+    "static/js/main.38e16af6.chunk.js"
   ]
 }
