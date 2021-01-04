@@ -1,12 +1,6 @@
-.footer {
-  position: absolute;
-  padding: 5px;
-  padding-left: 20px;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  font-size: small;
-  background-color: #eee;
+.text-right {
+  text-align: right;
+  font-size: xx-small;
 }
 
 .entry {
@@ -20,19 +14,19 @@
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active, .btn-secondary.active, .open>.dropdown-toggle.btn-primary {
   background-color: #FFA500;
-  color: dimgray;
-  border-color: dimgray;
-  /* font-weight: bold; */
-  border-width: 0px;
+  color: black;
+  border-color: black;
+  font-weight: bold;
   border-top-width: 3px;
   border-left-width: 3px;
 }
 
 .title-container {
   background-color: #FFA500;
+  color: black;
   padding: 10px; 
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 1px;
 }
 
 .center-bar {

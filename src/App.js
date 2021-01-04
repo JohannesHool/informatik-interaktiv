@@ -3,7 +3,7 @@ import './App.css';
 let PAGES = [
   ["Zahlensysteme", ""],
   ["Zeichenkodierung", "https://johanneshool.github.io/zeichenKonverter/"],
-  ["Pixelbilder", "https://johanneshool.github.io/binaerbilder/"]
+  ["Pixelbilder", "https://johanneshool.github.io/pixelbilder/"]
 ]
 
 function App() {
@@ -33,13 +33,12 @@ function App() {
       <div className="row">
         <div className="col-md-3"></div>
         <div className="col-md-6 center-bar">
+        <div className="text-right">Contact: <a href="mailto:hooljohannes@gmail.com">Johannes Hool</a>
+          </div>
           <div className="text-center title-container rounded">
             <h1>Informatik Interaktiv</h1>
           </div>
           {createList(PAGES)}
-          <div className="footer">
-            <p>Contact: <a href="mailto:hooljohannes@gmail.com">Johannes Hool</a></p>
-          </div>
         </div>
         <div className="col-md-2"></div>
       </div>
