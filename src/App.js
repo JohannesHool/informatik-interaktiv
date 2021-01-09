@@ -1,7 +1,7 @@
 import './App.css';
 
 let PAGES = [
-  ["Zahlensysteme", ""],
+  ["Zahlensysteme", "https://johanneshool.github.io/zahlensysteme/"],
   ["Zeichenkodierung", "https://johanneshool.github.io/zeichenKonverter/"],
   ["Pixelbilder", "https://johanneshool.github.io/pixelbilder/"]
 ]
